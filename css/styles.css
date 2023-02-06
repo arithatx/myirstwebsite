@@ -1,0 +1,28 @@
+body{
+    background-color: lightseagreen; 
+}
+h1{
+    color: brown;
+}
+h4{color: black;
+}
+img{
+    background-color: greenyellow;
+}
+/* กำหนไข่ปลา hr ไข่ปลา */
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkblue;
+    border-width: 6px;
+    width: 25%; 
+}
+.bacon{
+    background-color: green;
+}
+.chicken{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 100%;
+}
